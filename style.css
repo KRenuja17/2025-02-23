@@ -24,3 +24,21 @@
     border: 5px solid black;
     border-radius: 20px;
 }
+
+.maintable th{
+    background-color: rgb(245, 245, 238);
+}
+
+.maintable td{
+    text-align: center;
+}
+
+.container2{
+    width: 100%;
+    background-color: rgb(220, 217, 217);
+    padding: 30px 30px 20px;
+    margin: auto;
+    border-radius: 40px;
+    border: 5px  ;
+    
+}
