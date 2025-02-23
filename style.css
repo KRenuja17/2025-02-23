@@ -1,16 +1,26 @@
 #background{
-    background-image: url(neuro.jpg);
+    background-image: url(img2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    backdrop-filter: blur(5px);
 }
 
-.group{
-    background-color: aqua;
-    border: 5px solid red;
+.group01{
+    background-color: rgb(230, 235, 197);
+    border: 5px solid rgb(89, 107, 181);
      /* border-style: dashed; */
     /* border-radius: 50px; */
     border-top-style: dashed;
     border-bottom-style: dotted;
+}
+
+.container{
+    width: 100%;
+    background-color: darkgray;
+    padding: auto;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 20px;
 }
